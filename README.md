@@ -2,6 +2,11 @@
 
 A simple dashboard built with vanilla JavaScript that allows users to switch between different sections using tabs.
 
+## Preview
+
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/d2a430e7-aba0-4531-b001-37f9d64b1eaf" />
+
+
 ## Features 
 
 - Tab-based navigation
